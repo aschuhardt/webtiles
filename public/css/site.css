@@ -1,0 +1,14 @@
+.inline {
+  display: inline;
+  padding-right: 16px;
+}
+
+.selTile {
+  margin: 8px;
+  border: 1px solid black;
+}
+
+canvas {
+  margin: 16px;
+  border: 1px solid black;
+}
